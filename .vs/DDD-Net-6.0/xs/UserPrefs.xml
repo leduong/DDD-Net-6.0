@@ -1,0 +1,42 @@
+﻿<Properties StartupConfiguration="{5A7EF3C0-AE6E-4859-A68F-32E17EADA408}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="App.Infrastructure/Persistence/Repositories/TaskRepository.cs">
+    <Files>
+      <File FileName="App.Infrastructure/Persistence/Configuration/AppDBContext.cs" Line="10" Column="26" />
+      <File FileName="App.Infrastructure/Persistence/DBSeed/AppDBContext.cs" Line="14" Column="26" />
+      <File FileName="App.ApiService/Program.cs" Line="76" Column="1" />
+      <File FileName="App.ApiService/appsettings.json" Line="13" Column="1" />
+      <File FileName="App.Domain/Entities/Product.cs" Line="1" Column="1" />
+      <File FileName="App.ApiService/Controllers/TasksController.cs" Line="20" Column="1" />
+      <File FileName="App.Infrastructure/Persistence/Repositories/TaskRepository.cs" Line="9" Column="50" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DDD-Net-6.0" expanded="True">
+            <Node name="App.ApiService">
+              <Node name="Controllers" expanded="True" />
+            </Node>
+            <Node name="App.Domain" expanded="True">
+              <Node name="Entities" expanded="True" />
+            </Node>
+            <Node name="App.Infrastructure">
+              <Node name="Persistence" expanded="True">
+                <Node name="Configuration" expanded="True" />
+                <Node name="Repositories" expanded="True">
+                  <Node name="TaskRepository.cs" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.App.ApiService PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

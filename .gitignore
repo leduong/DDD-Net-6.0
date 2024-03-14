@@ -1,0 +1,86 @@
+# .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+# .NET compiled files
+*.dll
+*.pdb
+
+# Visual Studio files
+*.exe
+*.user
+*.aps
+*.pch
+*.vspscc
+*_i.c
+*_p.c
+*.ncb
+*.suo
+*.tlb
+*.tlh
+*.bak
+*.[Cc]ache
+*.ilk
+*.log
+*.lib
+*.sbr
+*.sdf
+ipch/
+obj/
+[Bb]in/
+[Dd]ebug/
+[Rr]elease/
+_ReSharper*/
+[Tt]est[Rr]esult*
+
+# Rider
+.idea/
+
+# ReSharper
+*.resharper
+*.ReSharper.user
+_ReSharper*/
+*.sln.DotSettings.user
+
+# Visual Studio Code
+.vscode/
+
+# Test files
+*.testsettings
+*.runsettings
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows s
+
+.DS_Store
